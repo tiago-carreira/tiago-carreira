@@ -6,7 +6,7 @@
 
   <p align="center">
     <b>Informatics Engineering Student (Information Systems) at ISEC</b><br>
-    Focused on Data Engineering, Modern Data Stack, and ELT pipelines.
+    Focused on Data Engineering, Applied Machine Learning, and Analytical Pipelines.
   </p>
 
   <p align="center">
@@ -21,7 +21,7 @@
 
 ---
 
-## Tech Stack & Data Engineering Skills
+## Tech Stack & Technical Skills
 
 <div align="center">
 
@@ -29,8 +29,8 @@
   <img src="https://img.shields.io/badge/SQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL" />
   <img src="https://img.shields.io/badge/DuckDB-FFF000?style=for-the-badge&logo=duckdb&logoColor=black" alt="DuckDB" />
   <img src="https://img.shields.io/badge/dbt-FF694B?style=for-the-badge&logo=dbt&logoColor=white" alt="dbt" />
-  <img src="https://img.shields.io/badge/Dagster-4F46E5?style=for-the-badge&logo=dagster&logoColor=white" alt="Dagster" />
-  <img src="https://img.shields.io/badge/ELT_Pipelines-2F80ED?style=for-the-badge" alt="ELT Pipelines" />
+  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" />
+  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="Scikit-Learn" />
 
 </div>
 
@@ -38,11 +38,11 @@
 
 ---
 
-## Data Engineering Project
+## Featured Projects
 
 | Project | Description | Stack |
 | :--- | :--- | :--- |
-| **[Space Traffic Management & Collision Risk](https://github.com/skiessq/space-traffic)** | End-to-end telemetry and CDM pipeline ingesting CelesTrak & ESA data, modeling orbital features with dbt/DuckDB, screening conjunctions via SGP4 mechanics, and predicting high-risk satellite close encounters using LightGBM. Orchestrated end-to-end with Dagster. | `Python`, `DuckDB`, `dbt`, `Dagster`, `LightGBM` |
+| **[Space Traffic Management & Collision Risk](https://github.com/skiessq/space-traffic)** | End-to-end telemetry and CDM pipeline ingesting CelesTrak & ESA data, modeling orbital features with dbt/DuckDB, screening conjunctions via SGP4 mechanics, and predicting high-risk satellite close encounters using LightGBM. | `Python`, `DuckDB`, `dbt`, `LightGBM`, `SGP4` |
 
 <br>
 
@@ -52,4 +52,4 @@
 
 | Project | Description | Stack |
 | :--- | :--- | :--- |
-| **[Godot Contributions](https://github.com/godotengine/godot/pulls?q=is%3Apr+author%3Askiessq+is%3Amerged)** | C++ Editor core contributions (VisualShader logic fixes & UI/UX stability improvements). | `C++` |
+| **[Godot Engine Contributions](https://github.com/godotengine/godot/pulls?q=is%3Apr+author%3Askiessq+is%3Amerged)** | C++ Editor core contributions (VisualShader logic fixes & UI/UX stability improvements). | `C++` |
